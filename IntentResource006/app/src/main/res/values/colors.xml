@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <!-- Color Specific Names -->
+    <color name="black">#000000</color>
+    <!-- Alpha Values are the 7 & 8th values -->
+    <color name="black_half_transparent">#00000088</color>
+    <color name="white">#FFFFFF</color>
+    <color name="white_half_transparent">#FFFFFF88</color>
+    <color name="transparent">#00000000</color>
+
+    <!-- Item Specific Information -->
+    <color name="icon_line">@color/white</color>
+    <color name="salmon_background">#FEEDED</color>
+    <color name="minty_background">#DEFEED</color>
+    <!-- These are going to be of more use later -->
+    <color name="icon_shadow_start_color">#2E2E2E</color>
+    <color name="icon_shadow_end_color">@color/transparent</color>
+    <color name="selected_button_gradient_start">#FEEDED</color>
+    <color name="unselected_button_gradient_start">#DEFEED</color>
+    <color name="disabled_button_gradient_start">#666666</color>
+    <color name="button_gradient_end">#AAAAAA</color>
+
+</resources>
